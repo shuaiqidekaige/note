@@ -5,3 +5,7 @@
 ## Obsidian Git
 
 git同步方案
+
+## Day Planner
+
+右侧面板生成时间轴，方便todolist时间线
