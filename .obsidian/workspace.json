@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "37d8a97555c4913a",
+    "type": "split",
+    "children": [
+      {
+        "id": "745a6ffa790ec410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef6ca08d433f53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "已学习/提效工具/obsidian常用插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ea746f9c6871ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1625a6eae8bd9ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f4f0111ed2bde35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f59b670391cf89d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f18681a2ec973d7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8629e0eb8e470468",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6e16652c8aa89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b25cc81dde81fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "已学习/提效工具/obsidian常用插件.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3cf1100e8a592f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "已学习/提效工具/obsidian常用插件.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c0d07c9281cdf24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24dafedc0a6ea868",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "已学习/提效工具/obsidian常用插件.md"
+              }
+            }
+          },
+          {
+            "id": "cd08c4dc765e6330",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "eef6ca08d433f53c",
+  "lastOpenFiles": [
+    "daliy work/2023-04-19.md",
+    "已学习/提效工具/obsidian常用插件.md",
+    "已学习/未命名",
+    "daliy work/2023-04-14.md",
+    "已学习/rust/Rust环境搭建.md",
+    "低代码/阿里低代码整体结构.md",
+    "已学习/rust/rust学习资料大全.md",
+    "待办",
+    "2023-04-15.md",
+    "2023-W16.md",
+    "低代码",
+    "已学习/源码阅读/await-to-js.md",
+    "已学习/协议/web dav.md",
+    "已学习/协议",
+    "未命名.canvas",
+    "待办/2023-04-14 1.md",
+    "已学习/算法",
+    "已学习/设计模式",
+    "已学习/源码阅读",
+    "已学习/性能优化",
+    "已学习/基础",
+    "已学习/提效工具"
+  ]
+}
