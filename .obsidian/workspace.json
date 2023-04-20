@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daliy work/2023-04-20.md",
+                "file": "已学习/rust/Rust变量绑定和解构.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daliy work/2023-04-20.md",
+                "file": "已学习/rust/Rust变量绑定和解构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daliy work/2023-04-20.md",
+                "file": "已学习/rust/Rust变量绑定和解构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daliy work/2023-04-20.md"
+                "file": "已学习/rust/Rust变量绑定和解构.md"
               }
             }
           },
@@ -163,16 +163,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "143dcb8e1931b9c0",
+  "active": "0b2426366907fb77",
   "lastOpenFiles": [
-    "daliy work/2023-04-19.md",
-    "低代码/阿里低代码整体结构.md",
-    "daliy work/2023-04-20.md",
-    "daliy work/2023-04-14.md",
-    "已学习/提效工具/obsidian常用插件.md",
     "已学习/rust/Rust环境搭建.md",
-    "已学习/未命名",
+    "已学习/rust/Rust变量绑定和解构.md",
     "已学习/rust/rust学习资料大全.md",
+    "2023-04-21.md",
+    "已学习/rust/未命名",
+    "daliy work/2023-04-19.md",
+    "daliy work/2023-04-14.md",
+    "daliy work/2023-04-20.md",
+    "低代码/阿里低代码整体结构.md",
+    "已学习/提效工具/obsidian常用插件.md",
+    "已学习/未命名",
     "待办",
     "2023-04-15.md",
     "2023-W16.md",
@@ -186,7 +189,6 @@
     "已学习/设计模式",
     "已学习/源码阅读",
     "已学习/性能优化",
-    "已学习/基础",
-    "已学习/提效工具"
+    "已学习/基础"
   ]
 }
