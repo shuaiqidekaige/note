@@ -1,0 +1,2 @@
+### flex中的min-width和min-height
+首先flex如果设置flex：auto，或者是flex：1，等等，默认情况下设置后，会根据父元素的宽高进行等比例缩放，此时，如果子元素内容内容很长，由于父元素缩放，子元素无法自适应（因为内容很长，也因为min-height或者是min-width默认为auto，默认为内容大小），从而导致子元素宽高不自适应，因此需要修改min-width和min-height，一般修改为1px，来解决此问题。
